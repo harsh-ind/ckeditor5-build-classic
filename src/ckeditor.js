@@ -68,6 +68,7 @@ ClassicEditor.defaultConfig = {
 			'heading',
 			'|',
 			'bold',
+			'codeBlock',
 			'italic',
 			'link',
 			'bulletedList',
