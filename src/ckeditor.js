@@ -58,7 +58,7 @@ ClassicEditor.builtinPlugins = [
 	Table,
 	TableToolbar,
 	TextTransformation,
-        CodeBlock
+	CodeBlock
 ];
 
 // Editor configuration.
